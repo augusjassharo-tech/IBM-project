@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-anthropic
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+python-dotenv

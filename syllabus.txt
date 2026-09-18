@@ -1,0 +1,37 @@
+DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+FINAL YEAR - SEMESTER 7 SYLLABUS OVERVIEW
+
+1. Machine Learning (CS701)
+Unit 1: Introduction to Machine Learning, Supervised vs Unsupervised Learning
+Unit 2: Regression and Classification Algorithms
+Unit 3: Decision Trees, Random Forests, Support Vector Machines
+Unit 4: Neural Networks and Deep Learning Basics
+Unit 5: Model Evaluation, Cross-Validation, and Case Studies
+
+2. Cloud Computing (CS702)
+Unit 1: Introduction to Cloud Computing, Service Models (IaaS, PaaS, SaaS)
+Unit 2: Virtualization and Cloud Infrastructure
+Unit 3: Cloud Storage and Databases
+Unit 4: Cloud Security
+Unit 5: Deployment on AWS/Azure/IBM Cloud
+
+3. Data Warehousing and Data Mining (CS703)
+Unit 1: Data Warehouse Architecture
+Unit 2: OLAP and Data Cube Technology
+Unit 3: Association Rule Mining
+Unit 4: Classification and Clustering
+Unit 5: Applications in Business Intelligence
+
+4. Open Elective - Generative AI (CS704E)
+Unit 1: Introduction to Generative AI and Large Language Models
+Unit 2: Prompt Engineering
+Unit 3: Retrieval-Augmented Generation (RAG)
+Unit 4: AI Agents, Tool Calling, and Memory
+Unit 5: Ethical and Responsible AI
+
+5. Project Work Phase I (CS705)
+Students select a project topic, conduct a literature survey, and submit a proposal
+report along with a Phase I review presentation.
+
+Note: Detailed unit-wise topics, textbooks, and reference materials are available in the
+full syllabus document issued by the department at the start of the semester.
